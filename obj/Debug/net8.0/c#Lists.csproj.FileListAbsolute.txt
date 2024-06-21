@@ -1,0 +1,14 @@
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\bin\Debug\net8.0\c#Lists.exe
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\bin\Debug\net8.0\c#Lists.deps.json
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\bin\Debug\net8.0\c#Lists.runtimeconfig.json
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\bin\Debug\net8.0\c#Lists.dll
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\bin\Debug\net8.0\c#Lists.pdb
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.AssemblyInfoInputs.cache
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.AssemblyInfo.cs
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.csproj.CoreCompileInputs.cache
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.dll
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\refint\c#Lists.dll
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.pdb
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\c#Lists.genruntimeconfig.cache
+C:\Users\DAVID OBOH\desktop\c#\c#Lists\obj\Debug\net8.0\ref\c#Lists.dll
